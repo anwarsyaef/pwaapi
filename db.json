@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Orca","category":"Teal"},
+{"id":2,"name":"Lion, african","category":"Orange"},
+{"id":3,"name":"Nilgai","category":"Puce"},
+{"id":4,"name":"Wallaby, dama","category":"Aquamarine"},
+{"id":5,"name":"Pelican, australian","category":"Turquoise"},
+{"id":6,"name":"Ox, musk","category":"Purple"},
+{"id":7,"name":"Sloth, hoffman's","category":"Maroon"},
+{"id":8,"name":"Beaver, eurasian","category":"Fuscia"},
+{"id":9,"name":"Pig-tailed macaque","category":"Aquamarine"},
+{"id":10,"name":"Madagascar hawk owl","category":"Purple"},
+{"id":11,"name":"Rhea, gray","category":"Pink"},
+{"id":12,"name":"Wallaby, tammar","category":"Yellow"},
+{"id":13,"name":"Deer, swamp","category":"Purple"},
+{"id":14,"name":"Chacma baboon","category":"Maroon"},
+{"id":15,"name":"Hedgehog, south african","category":"Maroon"},
+{"id":16,"name":"Otter, cape clawless","category":"Puce"},
+{"id":17,"name":"Hornbill, red-billed","category":"Indigo"},
+{"id":18,"name":"Lion, southern sea","category":"Violet"},
+{"id":19,"name":"Kingfisher, malachite","category":"Puce"},
+{"id":20,"name":"Baboon, yellow","category":"Crimson"}
+]
+}
